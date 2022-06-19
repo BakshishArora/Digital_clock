@@ -13,4 +13,5 @@ l=Label(mywindow, font="Calibri 32",background="black",foreground="white")
 l.pack()
 
 time()
+
 mainloop()
